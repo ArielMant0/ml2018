@@ -1,2 +1,5 @@
+# Temporary Files
+*/.ipynb_checkpoints/
+
 # PDFs
 *.pdf
